@@ -1,0 +1,18 @@
+:root {
+    --background-colour: #191c25;
+    --accent-colour: #1d90c6;
+    --primary: #1dc6a1;
+    --text-colour: #eee;
+    --navbar-background: #323841;
+    --navbar-text: #fff;
+    --heading-colour: #b3e9ee;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 1rem;
+}
